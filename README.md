@@ -1,2 +1,2 @@
 # mqtt-testsite
- site that shows discord status and activities whilst testing obfuscation of javascript and css files
+ A test site that shows the discord status and activities whilst testing obfuscation of javascript and css files.
